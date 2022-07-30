@@ -213,7 +213,6 @@ button{
     button{
         border-radius: 10px;
         font-size: 1.25em;
-        padding:0;
     }
 
     .reset-button,
